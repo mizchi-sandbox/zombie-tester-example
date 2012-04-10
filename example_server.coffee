@@ -20,7 +20,6 @@ html = """
 
 http = require 'http'
 http.createServer (req, res)->
-  console.log "..."
   res.writeHead 200, 'Content-Type': 'text/html'
   res.end html
 .listen 4444, '127.0.0.1'
