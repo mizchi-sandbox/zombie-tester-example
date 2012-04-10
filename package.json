@@ -1,0 +1,16 @@
+{
+  "author": "mizchi",
+  "name": "client_tester",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha -R spec --compilers coffee:coffee-script"
+    },
+  "dependencies": {
+    "zombie":"0.12.x",
+    "mocha":"1.0.x",
+    "coffee-script":"1.2.x"
+    },
+  "engines": {
+    "node": "0.6.xx"
+  }
+}
