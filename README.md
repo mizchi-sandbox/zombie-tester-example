@@ -22,7 +22,8 @@ $ npm test
 
 ## Add your test
 
-Add test/*_test.coffee
+Add test/*_test.coffee.
+
 First example is test/client_example_test.coffee
 
 ```
