@@ -7,7 +7,7 @@ This example is client testing using zombie and mocha.
 install node.js your own way (brew install node {on Mac} ... or others)
 
 ```
-git clone git:github.com/mizchi/zombie-tester-example.git
+git clone git://github.com/mizchi/zombie-tester-example.git
 cd zombie-tester-example
 npm install
 npm install -g mocha coffee-script
